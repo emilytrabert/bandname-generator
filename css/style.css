@@ -1,0 +1,14 @@
+/*
+	Bandname Generator
+	Emily Trabert
+	Generates a bandname based on science terms and foods.
+*/
+
+body {
+	padding: 200px;
+	text-align: right;
+}
+
+#bandname {
+	text-align: center;
+}
